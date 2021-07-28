@@ -118,23 +118,11 @@ PREDA语言VS Code插件提供了若干配置选项。其中与Playground相关�
 
 要学习PREDA语言，可参考下列文档和教程
 
-- PREDA语言规范（
+- PREDA语言规范（  [https://github.com/jiapw/oxd_preal/blob/master/spec/preal_v1_cn.md](https://github.com/jiapw/oxd_preal/blob/master/spec/preal_v1_cn.md)  ）
 
-  [https://github.com/jiapw/oxd_preal/blob/master/spec/preal_v1_cn.md]: https://github.com/jiapw/oxd_preal/blob/master/spec/preal_v1_cn.md
+- PREDA培训文档（  [https://docs.google.com/presentation/d/1Dh2hH8dh9Zpv935tPA-_RqXyerWfy7ZrJVQJ9Yq-qvQ/edit#slide=id.gddc6b1e607_0_5](https://docs.google.com/presentation/d/1Dh2hH8dh9Zpv935tPA-_RqXyerWfy7ZrJVQJ9Yq-qvQ/edit#slide=id.gddc6b1e607_0_5) ）
 
-  ）
-
-- PREDA培训文档（
-
-  [https://docs.google.com/presentation/d/1Dh2hH8dh9Zpv935tPA-_RqXyerWfy7ZrJVQJ9Yq-qvQ/edit#slide=id.gddc6b1e607_0_5]: https://docs.google.com/presentation/d/1Dh2hH8dh9Zpv935tPA-_RqXyerWfy7ZrJVQJ9Yq-qvQ/edit#slide=id.gddc6b1e607_0_5
-
-  ）
-
-- CryptoPuppy交互式教程（
-
-  [http://bc.moqun.cn/puppy/index.html]: http://bc.moqun.cn/puppy/index.html
-
-  ）
+- CryptoPuppy交互式教程（  [http://bc.moqun.cn/puppy/index.html](http://bc.moqun.cn/puppy/index.html)  ）
 
 ### 3.2 编译合约
 
